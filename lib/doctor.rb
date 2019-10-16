@@ -25,14 +25,4 @@ class Doctor
     appointments.map{|appointment| appointment.patients}
   end 
   
-    
-  
-  
-  
-  
-  
-  
-  
-  
-  
 end 
