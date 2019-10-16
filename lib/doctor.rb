@@ -14,8 +14,10 @@ class Doctor
   end 
   
   def appointments 
-    Doctor.all.appointments
-  end 
+    Appointment.all.self
+  end  
+  
+  
   
   
   
