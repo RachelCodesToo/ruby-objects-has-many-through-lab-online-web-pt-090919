@@ -13,5 +13,8 @@ class Patient
     @@all 
   end
   
+  def appointments
+    Appointment.all
+  
   
 end 
