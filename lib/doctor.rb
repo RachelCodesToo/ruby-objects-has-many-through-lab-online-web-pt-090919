@@ -13,6 +13,12 @@ class Doctor
     @@all
   end 
   
+  def appointments 
+    Doctor.all.appointments
+  end 
+  
+  
+  
   
   
   
