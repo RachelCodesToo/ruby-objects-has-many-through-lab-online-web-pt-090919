@@ -22,5 +22,5 @@ class Doctor
   end
   
   def patients 
-    Appointment.
+    appointments.map
 end 
