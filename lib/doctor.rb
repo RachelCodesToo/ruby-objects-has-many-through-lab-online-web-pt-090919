@@ -14,7 +14,7 @@ class Doctor
   end 
   
   def appointments
-    Appointment.all.select   
+    Appointment.all.select{appointment   
   
   
   
