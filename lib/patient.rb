@@ -13,10 +13,6 @@ class Patient
     @@all 
   end
   
-  def appointments
-    Appointment.map{|appointment| appointment.patient}
-  end 
-  
   
   
 end 
