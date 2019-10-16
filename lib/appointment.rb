@@ -16,6 +16,6 @@ class Appointment
   end 
   
   def patient 
-    Patient.
+    Patient.all
   
 end 
