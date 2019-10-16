@@ -22,6 +22,7 @@ class Doctor
   end 
   
   def patients
+    patients.map
     
   
   
